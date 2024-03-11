@@ -18,7 +18,8 @@ Skills
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,mysql,html,css,)](https://skillicons.dev)
 -->
 <h4>
-    - 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
+- 🔭 I’m Eshita Yadav
+- 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
 
 - 🌱 I’m currently learning Web Development
 
@@ -27,5 +28,5 @@ Skills
 <h4>Skills</h4>
 <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=java,py,django,flask,react,nodejs,ts,js,express,fastapi,kafka,mongodb,spring,mysql,redis,cpp,firebase,go,html,css,kotlin,rust,vue,linux,git,kubernetes,docker,gcp,aws" /> -->
-    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,firebase,replit" />
+    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,firebase,replit,git,github" />
 </a>
