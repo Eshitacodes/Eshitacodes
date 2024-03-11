@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 <!--
 **Eshitacodes/Eshitacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,c,python,mysql,html,css,)](https://skillicons.dev)
 -->
-<h2>
+<h4>
     - 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
 
 - 🌱 I’m currently learning Web Development
 
 - 📫 How to reach me: **https://www.linkedin.com/in/eshita-yadav-490a5924b/**
-  </h2>
-<h2>Skills</h2>
+  </h4>
+<h4>Skills</h4>
 <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=java,py,django,flask,react,nodejs,ts,js,express,fastapi,kafka,mongodb,spring,mysql,redis,cpp,firebase,go,html,css,kotlin,rust,vue,linux,git,kubernetes,docker,gcp,aws" /> -->
     <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,firebase,replit" />
