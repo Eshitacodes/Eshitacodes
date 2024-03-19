@@ -21,7 +21,7 @@ Skills
 - 🔭 I’m Eshita Yadav
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and hold a passion for Machine Learning
 
 - 📫 How to reach me: **https://www.linkedin.com/in/eshita-yadav-490a5924b/**
   </h4>
