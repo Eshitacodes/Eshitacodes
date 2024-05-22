@@ -28,5 +28,5 @@ Skills
 <h4>Skills</h4>
 <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=java,py,django,flask,react,nodejs,ts,js,express,fastapi,kafka,mongodb,spring,mysql,redis,cpp,firebase,go,html,css,kotlin,rust,vue,linux,git,kubernetes,docker,gcp,aws" /> -->
-    <img src="https://skillicons.dev/icons?i=java,c,python,go,mysql,html,css,firebase,replit,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,c,python,go,mysql,html,css,js,firebase,replit,git,github" />
 </a>
