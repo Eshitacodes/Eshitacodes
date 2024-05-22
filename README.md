@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Skills
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,mysql,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js)](https://skillicons.dev)
 -->
 <h4>
 - 🔭 I’m Eshita Yadav
