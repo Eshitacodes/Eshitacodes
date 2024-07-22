@@ -19,7 +19,7 @@ Skills
 -->
 <h4>
 - 🔭 I’m Eshita Yadav
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at KIIT
+- 👨🏽‍💻 I’m currently a IT Undergrad student at KIIT
 
 - 🌱 I’m currently learning Web Development and hold a passion for Machine Learning
 
