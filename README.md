@@ -19,9 +19,10 @@ Skills
 -->
 <h4>
 - 🔭 I’m Eshita Yadav
-- 👨🏽‍💻 I’m currently a IT Undergrad student at KIIT
+- 👨🏽‍💻 I’m a IT Undergrad student at KIIT
 
-- 🌱 I’m currently learning Web Development and hold a passion for Machine Learning
+- 🌱 I’m a Front-End Web Developer
+- 🤖 I'm currently learning Machine Learning
 
 - 📫 How to reach me: **https://www.linkedin.com/in/eshita-yadav-490a5924b/**
   </h4>
