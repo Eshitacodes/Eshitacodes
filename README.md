@@ -34,5 +34,5 @@ Skills
 </a>
 
 <h4>Profile Stats</h4>
-<br>
+
 ![image title](https://komarev.com/ghpvc/?username=your-github-username)
