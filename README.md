@@ -33,5 +33,6 @@ Skills
     <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,firebase,replit,git,github,jupyter notebook" />
 </a>
 
-
+<h4>Profile Stats</h4>
+<br>
 ![image title](https://komarev.com/ghpvc/?username=your-github-username)
