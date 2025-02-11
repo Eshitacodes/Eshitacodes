@@ -34,4 +34,4 @@ Skills
 </a>
 
 
-                                                                                                                      ![image title](https://komarev.com/ghpvc/?username=your-github-username)
+                                                                                                                      ![image title](https://komarev.com/ghpvc/?username=your-github-username) [8]
