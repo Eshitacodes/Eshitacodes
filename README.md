@@ -28,10 +28,10 @@ Skills
 - 📫 How to reach me: **https://www.linkedin.com/in/eshita-yadav-490a5924b/**
   </h4>
 <h4>Skills</h4>
+
 <a href="https://skillicons.dev">
-<!--     <img src="https://skillicons.dev/icons?i=java,py,django,flask,react,nodejs,ts,js,express,fastapi,kafka,mongodb,spring,mysql,redis,cpp,firebase,go,html,css,kotlin,rust,vue,linux,git,kubernetes,docker,gcp,aws" /> -->
-    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,firebase,replit,git,github,jupyter notebook" />
-</a>
+    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,firebase,replit,git,github,jupyter notebook"/>
+  </a>
 
 <h4>Profile Stats</h4>
 
