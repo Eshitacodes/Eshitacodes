@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-Skills
-[![My Skills](https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js)](https://skillicons.dev)
 -->
-<h4>
+
 - 🔭 I’m Eshita Yadav
   
 - 👨🏽‍💻 I’m a IT Undergrad student at KIIT
@@ -25,7 +22,7 @@ Skills
 - 🌱 I’m a Front-End Web Developer
 - 🤖 I'm currently learning Machine Learning
 
-- 📫 How to reach me: **https://www.linkedin.com/in/eshita-yadav-490a5924b/**
+- 📫 How to reach me: <a href = 'https://www.linkedin.com/in/eshita-yadav-490a5924b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
   </h4>
 <h4>Skills</h4>
 
