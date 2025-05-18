@@ -30,7 +30,7 @@ Skills
 <h4>Skills</h4>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,firebase,replit,git,github,jupyter notebook"/>
+    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,firebase,replit,git,github" />
   </a>
 
 <h4>Profile Stats</h4>
