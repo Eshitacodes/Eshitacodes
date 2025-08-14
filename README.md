@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h4>Skills</h4>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,firebase,replit,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,html,css,js,firebase,replit,git,github,githubactions,kubernetes,docker,linux,maven,terraform" />
   </a>
 
 <h4>Profile Stats</h4>
